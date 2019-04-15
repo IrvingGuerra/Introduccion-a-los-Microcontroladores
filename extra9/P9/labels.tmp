@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.17</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Microcontroladores\P9\P9</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Microcontroladores\P9\P9\P9.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Microcontroladores\P9\P9\P9.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Microcontroladores\P9\P9\P9.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Microcontroladores\P9\P9\P9.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>54</LINE></main>
+  <shift><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>158</LINE></shift>
+  <INICIO><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>97</LINE></INICIO>
+  <cero><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>105</LINE></cero>
+  <uno><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>117</LINE></uno>
+  <dos><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>127</LINE></dos>
+  <delay><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>141</LINE></delay>
+  <WGLOOP0><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>148</LINE></WGLOOP0>
+  <dosS><FILE>E:\Microcontroladores\P9\P9\P9.asm</FILE><LINE>165</LINE></dosS>
+ </LABELS>
+</ASSEMBLER_INFO>

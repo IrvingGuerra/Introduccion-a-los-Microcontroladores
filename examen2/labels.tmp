@@ -1,0 +1,54 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>I:\Microcontroladores\examen2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>I:\Microcontroladores\examen2\examen2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>I:\Microcontroladores\examen2\examen2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>I:\Microcontroladores\examen2\examen2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>I:\Microcontroladores\examen2\examen2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>13</LINE></main>
+  <actionINT0><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>75</LINE></actionINT0>
+  <actionTMR1><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>106</LINE></actionTMR1>
+  <actionTMR0><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>145</LINE></actionTMR0>
+  <INICIO><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>60</LINE></INICIO>
+  <aFinalNO><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>82</LINE></aFinalNO>
+  <aFinalYES><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>97</LINE></aFinalYES>
+  <aFirst><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>87</LINE></aFirst>
+  <aSecond><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>92</LINE></aSecond>
+  <activa5segs><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>240</LINE></activa5segs>
+  <bFinalNO><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>114</LINE></bFinalNO>
+  <bFinalYES><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>133</LINE></bFinalYES>
+  <bFirst><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>120</LINE></bFirst>
+  <bSecond><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>126</LINE></bSecond>
+  <desactiva5segs><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>251</LINE></desactiva5segs>
+  <cFinalNO><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>153</LINE></cFinalNO>
+  <cFinalYES><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>232</LINE></cFinalYES>
+  <cFirst><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>161</LINE></cFirst>
+  <cSecond><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>196</LINE></cSecond>
+  <LED1down><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>192</LINE></LED1down>
+  <LED1up><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>166</LINE></LED1up>
+  <es3><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>187</LINE></es3>
+  <noes3><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>172</LINE></noes3>
+  <ISpress><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>176</LINE></ISpress>
+  <ISunpress><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>181</LINE></ISunpress>
+  <bLED1down><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>227</LINE></bLED1down>
+  <bLED1up><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>201</LINE></bLED1up>
+  <bes3><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>222</LINE></bes3>
+  <bnoes3><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>207</LINE></bnoes3>
+  <bISpress><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>211</LINE></bISpress>
+  <bISunpress><FILE>I:\Microcontroladores\examen2\examen2.asm</FILE><LINE>216</LINE></bISunpress>
+ </LABELS>
+</ASSEMBLER_INFO>

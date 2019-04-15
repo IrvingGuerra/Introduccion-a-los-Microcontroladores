@@ -1,0 +1,57 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>G:\ESCOM\6\Microcontroladores\Extraordinario</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>20</LINE></main>
+  <muestra><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>201</LINE></muestra>
+  <conversion><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>62</LINE></conversion>
+  <inicio><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>56</LINE></inicio>
+  <isPressed><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>83</LINE></isPressed>
+  <isUnPressed><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>179</LINE></isUnPressed>
+  <zero><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>87</LINE></zero>
+  <es9><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>91</LINE></es9>
+  <noes9><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>96</LINE></noes9>
+  <es8><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>100</LINE></es8>
+  <noes8><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>105</LINE></noes8>
+  <es7><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>109</LINE></es7>
+  <noes7><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>114</LINE></noes7>
+  <es6><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>118</LINE></es6>
+  <noes6><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>123</LINE></noes6>
+  <es5><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>127</LINE></es5>
+  <noes5><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>132</LINE></noes5>
+  <es4><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>136</LINE></es4>
+  <noes4><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>141</LINE></noes4>
+  <es3><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>145</LINE></es3>
+  <noes3><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>150</LINE></noes3>
+  <es2><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>154</LINE></es2>
+  <noes2><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>159</LINE></noes2>
+  <es1><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>163</LINE></es1>
+  <noes1><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>168</LINE></noes1>
+  <esn0><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>172</LINE></esn0>
+  <noesn0><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>177</LINE></noesn0>
+  <one><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>183</LINE></one>
+  <esPrimera><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>195</LINE></esPrimera>
+  <noEsPrimera><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>188</LINE></noEsPrimera>
+  <delay><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>243</LINE></delay>
+  <WGLOOP0><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>251</LINE></WGLOOP0>
+  <WGLOOP1><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>252</LINE></WGLOOP1>
+  <WGLOOP2><FILE>G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm</FILE><LINE>253</LINE></WGLOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>

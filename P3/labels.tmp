@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.17</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>E:\Micros\P3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\Micros\P3\p3.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\Micros\P3\p3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\Micros\P3\p3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\Micros\P3\p3.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>E:\Micros\P3\p3.asm</FILE><LINE>26</LINE></INICIO>
+  <ESMAYORA><FILE>E:\Micros\P3\p3.asm</FILE><LINE>40</LINE></ESMAYORA>
+  <SIGUEB><FILE>E:\Micros\P3\p3.asm</FILE><LINE>44</LINE></SIGUEB>
+  <ESMAYORB><FILE>E:\Micros\P3\p3.asm</FILE><LINE>52</LINE></ESMAYORB>
+ </LABELS>
+</ASSEMBLER_INFO>

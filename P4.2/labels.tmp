@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega8535</DEVICE>
+ <WORKING_DIR>K:\Microcontroladores\P5.2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>K:\Microcontroladores\P5.2\P5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8535def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>K:\Microcontroladores\P5.2\P5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>K:\Microcontroladores\P5.2\P5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>K:\Microcontroladores\P5.2\P5.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <uno><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>52</LINE></uno>
+  <dos><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>54</LINE></dos>
+  <deco><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>77</LINE></deco>
+  <delay><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>82</LINE></delay>
+  <tres><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>66</LINE></tres>
+  <cuatro><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>70</LINE></cuatro>
+  <WGLOOP0><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>89</LINE></WGLOOP0>
+  <WGLOOP1><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>90</LINE></WGLOOP1>
+  <WGLOOP2><FILE>K:\Microcontroladores\P5.2\P5.asm</FILE><LINE>91</LINE></WGLOOP2>
+ </LABELS>
+</ASSEMBLER_INFO>

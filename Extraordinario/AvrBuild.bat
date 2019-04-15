@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "G:\ESCOM\6\Microcontroladores\Extraordinario\labels.tmp" -fI -W+ie -C V2E -o "G:\ESCOM\6\Microcontroladores\Extraordinario\910.hex" -d "G:\ESCOM\6\Microcontroladores\Extraordinario\910.obj" -e "G:\ESCOM\6\Microcontroladores\Extraordinario\910.eep" -m "G:\ESCOM\6\Microcontroladores\Extraordinario\910.map" "G:\ESCOM\6\Microcontroladores\Extraordinario\910.asm"
